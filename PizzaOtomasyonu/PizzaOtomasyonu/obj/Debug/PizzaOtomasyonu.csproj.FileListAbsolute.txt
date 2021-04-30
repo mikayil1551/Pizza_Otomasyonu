@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\PizzaOtomasyonu\PizzaOtomasyonu\bin\Debug\PizzaOtomasyonu.exe.config
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\PizzaOtomasyonu\PizzaOtomasyonu\bin\Debug\PizzaOtomasyonu.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\PizzaOtomasyonu\PizzaOtomasyonu\bin\Debug\PizzaOtomasyonu.pdb
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\PizzaOtomasyonu\PizzaOtomasyonu\obj\Debug\PizzaOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\PizzaOtomasyonu\PizzaOtomasyonu\obj\Debug\PizzaOtomasyonu.Form1.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\PizzaOtomasyonu\PizzaOtomasyonu\obj\Debug\PizzaOtomasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\PizzaOtomasyonu\PizzaOtomasyonu\obj\Debug\PizzaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\PizzaOtomasyonu\PizzaOtomasyonu\obj\Debug\PizzaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\PizzaOtomasyonu\PizzaOtomasyonu\obj\Debug\PizzaOtomasyonu.exe
+C:\Users\User\Desktop\YenidenC#\OOP\4.29.2021\PizzaOtomasyonu\PizzaOtomasyonu\obj\Debug\PizzaOtomasyonu.pdb
